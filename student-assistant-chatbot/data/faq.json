@@ -1,0 +1,26 @@
+[
+  {
+    "q": "What is stemming?",
+    "a": "Stemming reduces words to a rough base form (e.g., 'running' -> 'run'), sometimes producing non-words."
+  },
+  {
+    "q": "What is lemmatization?",
+    "a": "Lemmatization reduces words to a dictionary form (lemma) using linguistic rules (e.g., 'better' -> 'good')."
+  },
+  {
+    "q": "What is TF-IDF?",
+    "a": "TF-IDF weights words by how important they are: frequent in a document but rare across documents."
+  },
+  {
+    "q": "What is bag of words?",
+    "a": "Bag-of-words represents text by word counts, ignoring grammar and word order."
+  },
+  {
+    "q": "What is sentiment analysis?",
+    "a": "Sentiment analysis classifies text as positive/negative/neutral (or more detailed emotions)."
+  },
+  {
+    "q": "Give me tips for writing an NLP essay",
+    "a": "Explain your method, justify design choices, include examples, evaluate limitations, and reflect on UX and ethics."
+  }
+]
